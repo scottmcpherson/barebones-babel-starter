@@ -1,0 +1,1 @@
+# A barebones babel starter
